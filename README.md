@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/andav"><img src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="250" alt="Andrés' Dev Card"/></a>
 
 <!-- Stats Card -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andavgc)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)    
+
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andavgc)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc)](https://github.com/anuraghazra/github-readme-stats) -->
