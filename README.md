@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- DevCard -->
-<a href="https://app.daily.dev/andav">< float="right" img src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="250" alt="Andrés' Dev Card"/></a>
+<a href="https://app.daily.dev/andav"><img src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="250" alt="Andrés' Dev Card"/></a>
 
-<p float="right">
+
 <!-- Stats Card -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)    
-</p>
+
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andavgc)](https://github.com/anuraghazra/github-readme-stats)
 
