@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/andav"><img src="https://api.daily.dev/devcards/5cccfc9b1420413f87ea587332c1368d.png?r=1dc" width="400" alt="Andrés García's Dev Card"/></a>
+<a href="https://app.daily.dev/andav"><img src="https://api.daily.dev/devcards/5cccfc9b1420413f87ea587332c1368d.png?r=1dc" width="200" alt="Andrés García's Dev Card"/></a>
