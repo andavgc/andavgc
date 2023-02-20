@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<-- DevCard -->
 <a href="https://app.daily.dev/andav"><img src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="250" alt="Andrés' Dev Card"/></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andavgc)](https://github.com/anuraghazra/github-readme-stats)
