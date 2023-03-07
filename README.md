@@ -21,10 +21,9 @@ Some language that I know are Python, Javascript, HTM & CSS. Right now I'm learn
 
 Since I love music I'd really like to work with any project that involves any music subject, so let me know if you know some :)
 
-
 ### My 'Dev Card' from daily dev:
 <!-- DevCard -->
-<a href="https://app.daily.dev/andav"><img src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="250" alt="Andrés' Dev Card"/></a>
+<a href="https://app.daily.dev/andav"><img src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="270" alt="Andrés' Dev Card"/></a>
 
 ### Some statistics
 <!-- Top Languages 
