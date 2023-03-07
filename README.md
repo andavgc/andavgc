@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Andrés, I'm from Venezuela but living in Brazil for the last 7 years, I'm in a transition process to become a developer and currently I'm searching for any opportunity to work with programming and earn more experience, either contributting to Open Source, doing some freelance projects or working for a company. 
+
+Some language that I know are Python, Javascript, HTM & CSS. Right now I'm learning React and I already developt some apps with it.
+
+Since I love music I'd really like to work with any project that involves any music subject, so let me know if you know some :)
+
+
+### My 'Dev Card' from daily dev:
 <!-- DevCard -->
 <a href="https://app.daily.dev/andav"><img src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="250" alt="Andrés' Dev Card"/></a>
 
+### Some statistics
 <!-- Top Languages 
 [![Top Langs](https://github-reade-stats.vercel.app/api/top-langs/?username=andavgc&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
