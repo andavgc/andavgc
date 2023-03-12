@@ -19,19 +19,23 @@ Here are some ideas to get you started:
   <img align="right" src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="30%" alt="Andrés' Dev Card"/>
 </a>
 <div style="display: in-line: block">
-<p align="left">My name is Andrés, I'm from Venezuela but living in Brazil for the last 7 years, I'm in a transition to become a developer and currently I'm searching for any opportunity to work with programming and earn more experience, either contributting to Open Source, doing some freelance projects or working for a company. Since I love music I'd really like to work with any project that involves any music subject, so let me know if you know some :)</p>
+<p align="left">My name is Andrés, I'm from Venezuela but living in Brazil for the last 7 years, I'm in a transition to become a developer and currently I'm searching for any opportunity to work with programming and earn more experience, either contributting to Open Source, doing some freelance projects or working for a company. Since I love music I'd really like to work with any project that involves any music subject, so let me know if you know some 🙂</p>
 
  
 </div>
 <div style="display: in-line: block"><br>
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
-
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />      
 </div>
 
 ##
