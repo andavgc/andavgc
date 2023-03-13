@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <!-- DevCard -->
 <a href="https://app.daily.dev/andav">
-  <img align="right" src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="30%" alt="Andrés' Dev Card"/>
+  <img align="right" src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="33%" alt="Andrés' Dev Card"/>
 </a>
 <div style="display: in-line: block">
 <p align="left">My name is Andrés, I'm from Venezuela but living in Brazil for the last 7 years, I'm in a transition to become a developer and currently I'm searching for any opportunity to work with programming and earn more experience, either contributting to Open Source, doing some freelance projects or working for a company. Since I love music I'd really like to work with any project that involves any music subject, so let me know if you know some 🙂</p>
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ## Git Stats
 <div>
-<img width="40%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
-<img width="27%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
+<img width="38%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
+<img width="25%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
 </div>
 
 <!-- Stats Card -->
