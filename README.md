@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <!--
 **andavgc/andavgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +14,11 @@ Here are some ideas to get you started:
 -->
 <!-- DevCard -->
 <a href="https://app.daily.dev/andav">
-  <img align="right" src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="33%" alt="Andrés' Dev Card"/>
+  <img align="right" src="https://github.com/andavgc/andavgc/blob/main/devcard.svg" width="30%" alt="Andrés' Dev Card"/>
 </a>
+
+## Hi there 👋
+
 <div style="display: in-line: block">
 <p align="left">My name is Andrés, I'm from Venezuela but living in Brazil for the last 7 years, I'm in a transition to become a developer and currently I'm searching for any opportunity to work with programming and earn more experience, either contributting to Open Source, doing some freelance projects or working for a company. Since I love music I'd really like to work with any project that involves any music subject, so let me know if you know some 🙂</p>
 </div>
@@ -47,13 +47,10 @@ Here are some ideas to get you started:
 </div>
   
 ## Git Stats
-<div>
-<img width="40%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
-<img width="29%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
+<div style="display: in-line: block">
+<img width="51%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
+<img width="34%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
 </div>
-
-<!-- Stats Card -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)     -->
 
 <!--Wakatime Card -->
 ## Last week code stats:
