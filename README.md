@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   
 ## Git Stats
 <div>
-<img width="38%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
-<img width="25%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
+<img width="40%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
+<img width="29%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
 </div>
 
 <!-- Stats Card -->
