@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ## Last week code stats:
 
-<div style="display: in-line: block"><br>
- <a href="https://wakatime.com/@andavgc"><img width="20%" align="right" src="https://wakatime.com/badge/user/a8dc69b9-25d8-42cd-8c42-2116c5bdd9ba.svg" alt="Total time coded since Feb 19 2023" /></a>
+<div>
+<a href="https://wakatime.com/@andavgc"><img width="20%" src="https://wakatime.com/badge/user/a8dc69b9-25d8-42cd-8c42-2116c5bdd9ba.svg" alt="Total time coded since Feb 19 2023" /></a><br>
 <!--Wakatime Card -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" />
 
 </div>
