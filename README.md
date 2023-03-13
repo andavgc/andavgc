@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+
 
 <!--
 **andavgc/andavgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,17 +39,18 @@ Here are some ideas to get you started:
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />      
 </div>
 
-##
+
+## Git Stats
 <div>
 <img width="40%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
-<img width="26%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
+<img width="27%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
 </div>
 
 <!-- Stats Card -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)     -->
 
 <!--Wakatime Card -->
-### Last week code stats:
+## Last week code stats:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
