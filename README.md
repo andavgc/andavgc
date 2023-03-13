@@ -55,10 +55,11 @@ Here are some ideas to get you started:
 </div>
 <img width="8%" src="https://visitor-badge.glitch.me/badge?page_id=andavgc?style=plastic&logo=github"/>
 
-<!--Wakatime Card -->
 ## Last week code stats:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: in-line: block"><br>
+ <a href="https://wakatime.com/@andavgc"><img width="20%" align="right" src="https://wakatime.com/badge/user/a8dc69b9-25d8-42cd-8c42-2116c5bdd9ba.svg" alt="Total time coded since Feb 19 2023" /></a>
+<!--Wakatime Card -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" />
 
 </div>
