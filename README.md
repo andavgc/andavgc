@@ -44,7 +44,8 @@ Here are some ideas to get you started:
   <a href="https://www.discordapp.com/users/358043840768245762" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/andresgarciac/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://wa.me/19971677713" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@beirazz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@beirazz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a><br>
+<!--   <img src="https://img.shields.io/youtube/channel/views/UCQ_65iMBFlVhfJ1hxIA8EVA?style=plastic&logo=youtube" /> -->
 </div>
   
 ## Git Stats
@@ -52,12 +53,12 @@ Here are some ideas to get you started:
 <img width="51%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
 <img width="34%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
 </div>
+<img width="8%" src="https://visitor-badge.glitch.me/badge?page_id=andavgc?style=plastic&logo=github"/>
 
 <!--Wakatime Card -->
 ## Last week code stats:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: in-line: block"><br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=andavgc?style=plastic&logo=github"/>
-<img src="https://img.shields.io/youtube/channel/views/UCQ_65iMBFlVhfJ1hxIA8EVA?style=plastic&logo=youtube" />
+
 </div>
