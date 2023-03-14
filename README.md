@@ -35,7 +35,9 @@ Here are some ideas to get you started:
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />  
+  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> 
+  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          
 </div>
 
 ### Connect with me: 
