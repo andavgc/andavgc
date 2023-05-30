@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 ### Connect with me: 
 <div>
+  <a href="https://gitlab.com/Andav_"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/><a/>
   <a href="https://www.linkedin.com/in/andresdgarciac/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.discordapp.com/users/358043840768245762" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/andresgarciac/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
