@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/andresgarciac/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://wa.me/19971677713" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.youtube.com/@beirazz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a><br>
+  <a href="https://wakatime.com/@andavgc"><img width="23%" src="https://wakatime.com/badge/user/a8dc69b9-25d8-42cd-8c42-2116c5bdd9ba.svg" alt="Total time coded since Feb 19 2023" /></a>
 <!--   <img src="https://img.shields.io/youtube/channel/views/UCQ_65iMBFlVhfJ1hxIA8EVA?style=plastic&logo=youtube" /> -->
 </div>
   
@@ -63,5 +64,5 @@ Here are some ideas to get you started:
 <div style="display: in-line: block">
 <!--Wakatime Card -->
 <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" /><br>
-<a href="https://wakatime.com/@andavgc"><img src="https://wakatime.com/badge/user/a8dc69b9-25d8-42cd-8c42-2116c5bdd9ba.svg" alt="Total time coded since Feb 19 2023" /></a>
+
 </div><br>
