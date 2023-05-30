@@ -57,12 +57,12 @@ Here are some ideas to get you started:
 <img width="51%" src='https://github-readme-stats.vercel.app/api?username=andavgc&count_private=true&theme=tokyonight&show_icons=true&hide=stars' />
 <img width="34%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=andavgc&layout=compact&theme=tokyonight' />
 </div>
-<img width="8%" src="https://visitor-badge.glitch.me/badge?page_id=andavgc?style=plastic&logo=github" />
+<!-- <img width="8%" src="https://visitor-badge.glitch.me/badge?page_id=andavgc?style=plastic&logo=github" /> -->
   
 <!-- ## Code stats:
 
 <div style="display: in-line: block">
 <!--Wakatime Card -->
-<img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" /><br>
+<!-- <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" /><br> -->
 
-</div><br> -->
+<!-- </div><br> -->
