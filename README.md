@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 
 <div style="display: in-line: block">
 <!--Wakatime Card -->
-<!-- <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" /><br> -->
+<img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andavgc&hide_progress=false&layout=compact&langs_count=6&theme=tokyonight" /><br>
 
 <!-- </div><br> -->
